@@ -1,8 +1,9 @@
-/* CREATE database CSC306Class; */
+CREATE database CSC306Class;
+
 use CSC306Class; /* Used this to use the database that was created */
 
 /*CREATING TABLES*/
-/*
+
 CREATE TABLE studentInf(
 studentID int primary key,
 firstName varchar(50),
@@ -26,7 +27,7 @@ instID int,
 LikeOrDislike boolean,
 DateOfFeedback date
 );
-*/
+
 
 /* INSERTING DATA TO THE TABLES */
 INSERT INTO studentInf VALUES(1, "Nitish", "Kafle", "kaflenitish1@gmail.com", '2020/01/01');
