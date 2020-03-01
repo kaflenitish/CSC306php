@@ -3,7 +3,7 @@
 <body>
 <head>
 <title>Week 7 Project</title>
-#this sets the title of the page
+//this sets the title of the page
 
 //creating border style
 <style type="text/css">
