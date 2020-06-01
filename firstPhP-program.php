@@ -5,7 +5,6 @@
 <body>
 
 <?php	#starts the php command
-
 /*
 Lab 1
 Name: Nitish Kafle
